@@ -25,4 +25,5 @@ Raw data archive:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%
 ## How to run
  1. Source script file [run_analysis.R] (https://github.com/mikhailidim/cleandata/blob/master/run_analysis.R)
  2. Run function with no parameters:
-   > asummary<- run_analysis()
+ 
+    > run_analysis()
